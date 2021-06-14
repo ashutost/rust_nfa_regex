@@ -7,6 +7,7 @@ description = "Simple NFA regex engine for text processing."
 license = "Apache-2.0"
 keywords = ["regex", "nfa"]
 categories = ["accessibility", "text-processing"]
+repository = "https://github.com/ashgamer10/rust_nfa_regex.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
