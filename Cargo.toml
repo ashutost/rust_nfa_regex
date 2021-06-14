@@ -1,6 +1,6 @@
 [package]
 name = "nfa_regex"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Ashutosh Tiwari <ashutosh10.tiwari@gmail.com>"]
 edition = "2018"
 description = "Simple NFA regex engine for text processing."
